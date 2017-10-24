@@ -38,6 +38,8 @@ Die VolkswagenStiftung fördert Wissenschaft: impulsgebend, interdisziplinär un
 * Förderung innerhalb von Förderinitiativen und Förderausschreibungen
 * Voranfrage mit Kurzvorstellung empfehlenswert
 * Förderung int. Wissenschaftler bei Kooperation mit dt. Wissenschaftlern möglich
+* Bewilligungschancen und Erfolgskriterien relativ unklar
+* transparente Ausschlusskriterien
 ---
 ## Lichterberg-Professuren
 * Etablierung eines unkonventionellen Forschungsfelds
