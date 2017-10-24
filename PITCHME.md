@@ -26,11 +26,20 @@ Die VolkswagenStiftung fördert Wissenschaft: impulsgebend, interdisziplinär un
 * konstituierende Sitzung am 27. Februar 1962 in Hannover
 ---
 * größte forschungsfördernde Stiftung Deutschlands
+* Grundlagenforschung ohne inhaltlichen Schwerpunkt
+* Orientierung an wissenschaftlichen, gesellschaftlichen und politischen Anforderungen
+---
 * jährliches Fördervolumen von 190 Mio €
 * Kapital der Stiftung: 2,9 Mrd. € (~ Jahresetat DFG)
 ---
 ## Lichterberg Professuren
 * 
+---
+## Freigeist-Fellowship
+* exzellente Nachwuchswissenschaftler
+* Finanzierung der eigenen Stelle
+* freie Auswahl des Fachgebiets
+* max. 1 Mio. € auf max. 5 Jahre
 ---
 ## Danke
 * Kurzvorstellung VolkswagenStiftung
