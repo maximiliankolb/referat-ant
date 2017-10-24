@@ -3,7 +3,8 @@
 ## Gliederung
 * Die VolkswagenStiftung
 * Entstehung der Stiftung
-* c
+* Lichtenberg-Professuren
+* Freigeist-Fellowship
 ---
 ## Die VolkswagenStiftung
 ---
