@@ -22,7 +22,7 @@ Die VolkswagenStiftung fördert Wissenschaft: impulsgebend, interdisziplinär un
 ---
 * 60% Privatbesitz; BRD und Niedersachen je 20%
 * Anfangsvolumen: 1 Mrd DM plus jährliche Gewinne
-* Gründung am 19. Mai 2961
+* Gründung am 19. Mai 1961
 * konstituierende Sitzung am 27. Februar 1962 in Hannover
 ---
 ## Danke
