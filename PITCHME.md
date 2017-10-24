@@ -21,9 +21,16 @@ Die VolkswagenStiftung fördert Wissenschaft: impulsgebend, interdisziplinär un
 * Stiftung entsteht aus Erlös der Umwandlung in eine AG
 ---
 * 60% Privatbesitz; BRD und Niedersachen je 20%
-* Anfangsvolumen: 1 Mrd DM plus jährliche Gewinne
+* Anfangsvolumen: 1 Mrd. DM plus jährliche Gewinne
 * Gründung am 19. Mai 1961
 * konstituierende Sitzung am 27. Februar 1962 in Hannover
+---
+* größte forschungsfördernde Stiftung Deutschlands
+* jährliches Fördervolumen von 190 Mio €
+* Kapital der Stiftung: 2,9 Mrd. € (~ Jahresetat DFG)
+---
+## Lichterberg Professuren
+* 
 ---
 ## Danke
 * Kurzvorstellung VolkswagenStiftung
