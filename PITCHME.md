@@ -3,6 +3,7 @@
 ## Gliederung
 * Die VolkswagenStiftung
 * Entstehung der Stiftung
+* Forschungsanträge
 * Lichtenberg-Professuren
 * Freigeist-Fellowship
 ---
@@ -32,6 +33,11 @@ Die VolkswagenStiftung fördert Wissenschaft: impulsgebend, interdisziplinär un
 ---
 * jährliches Fördervolumen von 190 Mio €
 * Kapital der Stiftung: 2,9 Mrd. € (~ Jahresetat DFG)
+---
+## Forschungsanträge
+* Förderung innerhalb von Förderinitiativen und Förderausschreibungen
+* Voranfrage mit Kurzvorstellung empfehlenswert
+* Förderung int. Wissenschaftler bei Kooperation mit dt. Wissenschaftlern möglich
 ---
 ## Lichterberg-Professuren
 * Etablierung eines unkonventionellen Forschungsfelds
