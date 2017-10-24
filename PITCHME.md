@@ -1,9 +1,13 @@
 # Vorstellung der VolkswagenStiftung
 ---
 ## Gliederung
-* a
+* Selbstbeschreibung
 * b
 * c
+---
+## VolkswagenStiftung
+Wir stiften Wissen  
+Die VolkswagenStiftung fördert Wissenschaft: impulsgebend, interdisziplinär und grenzüberschreitend.
 ---
 ## Danke
 * Kurzvorstellung VolkswagenStiftung
