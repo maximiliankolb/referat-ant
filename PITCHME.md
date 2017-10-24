@@ -1,4 +1,4 @@
-# Vorstellung des VolkswagenStiftung
+# Vorstellung der VolkswagenStiftung
 ---
 ## Gliederung
 * a
