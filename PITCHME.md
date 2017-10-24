@@ -32,8 +32,11 @@ Die VolkswagenStiftung fördert Wissenschaft: impulsgebend, interdisziplinär un
 * jährliches Fördervolumen von 190 Mio €
 * Kapital der Stiftung: 2,9 Mrd. € (~ Jahresetat DFG)
 ---
-## Lichterberg Professuren
-* 
+## Lichterberg-Professuren
+* Etablierung eines unkonventionellen Forschungsfelds
+* Finanzierung der Professur
+* freie Auswahl des Fachgebiets
+* max. 1,5 Mio. € auf max. 5 Jahre
 ---
 ## Freigeist-Fellowship
 * exzellente Nachwuchswissenschaftler
