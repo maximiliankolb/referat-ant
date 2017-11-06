@@ -41,7 +41,7 @@ Die VolkswagenStiftung fördert Wissenschaft: impulsgebend, interdisziplinär un
 * Bewilligungschancen und Erfolgskriterien relativ unklar
 * transparente Ausschlusskriterien
 ---
-## Lichterberg-Professuren
+## Lichtenberg-Professuren
 * Etablierung eines unkonventionellen Forschungsfelds
 * Finanzierung der Professur
 * freie Auswahl des Fachgebiets
